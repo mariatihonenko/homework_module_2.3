@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/PlatformIO"
+		},
+		{
+			"name": "module22_homework",
+			"path": "../../module22_homework"
+		},
+		{
+			"name": "module23_homework",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
